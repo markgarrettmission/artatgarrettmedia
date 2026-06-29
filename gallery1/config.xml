@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Objects"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/IMG_3822.JPG"
+	thumbURL="thumbs/IMG_3822.JPG"
+	linkURL="images/IMG_3822.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/markgarrett/Desktop/test/IMG_3822.JPG">
+    <title><![CDATA[IMG_3822]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3837.JPG"
+	thumbURL="thumbs/IMG_3837.JPG"
+	linkURL="images/IMG_3837.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/markgarrett/Desktop/test/IMG_3837.JPG">
+    <title><![CDATA[IMG_3837]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3891.JPG"
+	thumbURL="thumbs/IMG_3891.JPG"
+	linkURL="images/IMG_3891.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/markgarrett/Desktop/test/IMG_3891.JPG">
+    <title><![CDATA[IMG_3891]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/photo (1).JPG"
+	thumbURL="thumbs/photo (1).JPG"
+	linkURL="images/photo (1).JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/markgarrett/Desktop/test/photo (1).JPG">
+    <title><![CDATA[photo (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/photo.JPG"
+	thumbURL="thumbs/photo.JPG"
+	linkURL="images/photo.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/markgarrett/Desktop/test/photo.JPG">
+    <title><![CDATA[photo]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

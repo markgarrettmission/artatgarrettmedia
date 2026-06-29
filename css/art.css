@@ -1,0 +1,96 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Condensed);
+/*h1{
+	color: #900;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:1.5em;
+}*/
+.row{
+	background-color:rgba(240,240,240,0.6);
+}
+.main_heading{
+	font-family:'Ubuntu Condensed','Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+	color: #d6cc86;
+	-moz-text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	-webkit-text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	-o-text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	-ms-text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+		/*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+	
+}
+h2.subheader{
+  font-family: 'Ubuntu Condensed','Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+}
+h3, h4, h5, h6 {
+  font-family: 'Ubuntu','Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+  font-weight:300;
+}
+body {
+  background: #fff url(/img/DDT_art_garrettmedia_back4.jpg) repeat-y top center;
+  color: #222222;
+  padding: 0;
+  margin: 0;
+  font-family: Ubuntu, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: default; }
+  
+  #juicebox-container *,
+#juicebox-container *:before,
+#juicebox-container *:after {
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+  
+   #juicebox-container{
+	  margin:0 auto;
+  }
+  
+  ul#drop1.f-dropdown{
+    z-index:100;
+}
+
+.top-bar {
+  background: #CCC;
+}
+
+.exhibition_list li{
+	list-style:none;
+	margin-bottom:.7em;
+}
+
+@media only screen and (max-width: 768px) {
+  .main_heading{
+    font-size:1.2em; 
+	float:none !important;
+	margin-top:-0.5em;
+	/*padding-top:0.17em;
+	background-color:#f00;*/
+	} 
+	ul#drop1.f-dropdown{
+    z-index:100;
+}
+	}
+	
+	@media only screen and (min-width: 768px) {
+ #header .button-group {
+    margin-top:.67em;
+	 /*margin:0 !important;
+	padding:0 !important;*/
+	} 
+	  .main_heading{
+    font-size:2.5em; 
+	margin-top:0;
+	margin-bottom:0em;
+	}  
+	/*#header ul {
+	margin-bottom: 0px;
+}*/
+	}
+  
+
