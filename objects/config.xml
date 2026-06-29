@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1200"
+	maxImageHeight="1000"
+	backgroundColor="rgba(238,238,238,1)"
+	galleryTitle=""
+	textColor="rgba(204,204,204,1)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/00027_s_r12ager7akn0027.jpg"
+	thumbURL="thumbs/00027_s_r12ager7akn0027.jpg"
+	linkURL="images/00027_s_r12ager7akn0027.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00027_s_r12ager7akn0027.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00031_s_r12ager7akn0031.jpg"
+	thumbURL="thumbs/00031_s_r12ager7akn0031.jpg"
+	linkURL="images/00031_s_r12ager7akn0031.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00031_s_r12ager7akn0031.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00079_s_r12ager7akn0079.jpg"
+	thumbURL="thumbs/00079_s_r12ager7akn0079.jpg"
+	linkURL="images/00079_s_r12ager7akn0079.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00079_s_r12ager7akn0079.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/beef_and_cheese_number2_1994_30x42_detail.jpg"
+	thumbURL="thumbs/beef_and_cheese_number2_1994_30x42_detail.jpg"
+	linkURL="images/beef_and_cheese_number2_1994_30x42_detail.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/beef_and_cheese_number2_1994_30x42_detail.jpg">
+    <title><![CDATA[beef_and_cheese_number2_1994_30x42_detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00078_s_r12ager7akn0078.jpg"
+	thumbURL="thumbs/00078_s_r12ager7akn0078.jpg"
+	linkURL="images/00078_s_r12ager7akn0078.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00078_s_r12ager7akn0078.jpg">
+    <title><![CDATA[Objects and Installations8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00023_s_r12ager7akn0023.jpg"
+	thumbURL="thumbs/00023_s_r12ager7akn0023.jpg"
+	linkURL="images/00023_s_r12ager7akn0023.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00023_s_r12ager7akn0023.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00030_s_r12ager7akn0030.jpg"
+	thumbURL="thumbs/00030_s_r12ager7akn0030.jpg"
+	linkURL="images/00030_s_r12ager7akn0030.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00030_s_r12ager7akn0030.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00085_s_r12ager7akn0085.jpg"
+	thumbURL="thumbs/00085_s_r12ager7akn0085.jpg"
+	linkURL="images/00085_s_r12ager7akn0085.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00085_s_r12ager7akn0085.jpg">
+    <title><![CDATA[Objects and Installations5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00087_s_r12ager7akn0087.jpg"
+	thumbURL="thumbs/00087_s_r12ager7akn0087.jpg"
+	linkURL="images/00087_s_r12ager7akn0087.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00087_s_r12ager7akn0087.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00082_s_r12ager7akn0082.jpg"
+	thumbURL="thumbs/00082_s_r12ager7akn0082.jpg"
+	linkURL="images/00082_s_r12ager7akn0082.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00082_s_r12ager7akn0082.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00091_s_r12ager7akn0091.jpg"
+	thumbURL="thumbs/00091_s_r12ager7akn0091.jpg"
+	linkURL="images/00091_s_r12ager7akn0091.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00091_s_r12ager7akn0091.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00093_s_r12ager7akn0093.jpg"
+	thumbURL="thumbs/00093_s_r12ager7akn0093.jpg"
+	linkURL="images/00093_s_r12ager7akn0093.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00093_s_r12ager7akn0093.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00092_s_r12ager7akn0092.jpg"
+	thumbURL="thumbs/00092_s_r12ager7akn0092.jpg"
+	linkURL="images/00092_s_r12ager7akn0092.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00092_s_r12ager7akn0092.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00099_s_r12ager7akn0099.jpg"
+	thumbURL="thumbs/00099_s_r12ager7akn0099.jpg"
+	linkURL="images/00099_s_r12ager7akn0099.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00099_s_r12ager7akn0099.jpg">
+    <title><![CDATA[Objects and Installations9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00088_s_r12ager7akn0088.jpg"
+	thumbURL="thumbs/00088_s_r12ager7akn0088.jpg"
+	linkURL="images/00088_s_r12ager7akn0088.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00088_s_r12ager7akn0088.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cancer_man_number1_1994_detail.jpg"
+	thumbURL="thumbs/cancer_man_number1_1994_detail.jpg"
+	linkURL="images/cancer_man_number1_1994_detail.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/cancer_man_number1_1994_detail.jpg">
+    <title><![CDATA[cancer_man_number1_1994_detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00083_s_r12ager7akn0083.jpg"
+	thumbURL="thumbs/00083_s_r12ager7akn0083.jpg"
+	linkURL="images/00083_s_r12ager7akn0083.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00083_s_r12ager7akn0083.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00081_s_r12ager7akn0081.jpg"
+	thumbURL="thumbs/00081_s_r12ager7akn0081.jpg"
+	linkURL="images/00081_s_r12ager7akn0081.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00081_s_r12ager7akn0081.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00075_s_r12ager7akn0075.jpg"
+	thumbURL="thumbs/00075_s_r12ager7akn0075.jpg"
+	linkURL="images/00075_s_r12ager7akn0075.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00075_s_r12ager7akn0075.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00077_s_r12ager7akn0077.jpg"
+	thumbURL="thumbs/00077_s_r12ager7akn0077.jpg"
+	linkURL="images/00077_s_r12ager7akn0077.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00077_s_r12ager7akn0077.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00074_s_r12ager7akn0074.jpg"
+	thumbURL="thumbs/00074_s_r12ager7akn0074.jpg"
+	linkURL="images/00074_s_r12ager7akn0074.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00074_s_r12ager7akn0074.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00076_s_r12ager7akn0076_b.jpg"
+	thumbURL="thumbs/00076_s_r12ager7akn0076_b.jpg"
+	linkURL="images/00076_s_r12ager7akn0076_b.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00076_s_r12ager7akn0076_b.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00080_s_r12ager7akn0080_b.jpg"
+	thumbURL="thumbs/00080_s_r12ager7akn0080_b.jpg"
+	linkURL="images/00080_s_r12ager7akn0080_b.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00080_s_r12ager7akn0080_b.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00065_s_r12ager7akn0065_o.jpg"
+	thumbURL="thumbs/00065_s_r12ager7akn0065_o.jpg"
+	linkURL="images/00065_s_r12ager7akn0065_o.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00065_s_r12ager7akn0065_o.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mobile_1988.jpg"
+	thumbURL="thumbs/mobile_1988.jpg"
+	linkURL="images/mobile_1988.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/mobile_1988.jpg">
+    <title><![CDATA[mobile_1988]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00037_s_r12ager7akn0037.jpg"
+	thumbURL="thumbs/00037_s_r12ager7akn0037.jpg"
+	linkURL="images/00037_s_r12ager7akn0037.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00037_s_r12ager7akn0037.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00048_s_r12ager7akn0048.jpg"
+	thumbURL="thumbs/00048_s_r12ager7akn0048.jpg"
+	linkURL="images/00048_s_r12ager7akn0048.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00048_s_r12ager7akn0048.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00024_s_r12ager7akn0024.jpg"
+	thumbURL="thumbs/00024_s_r12ager7akn0024.jpg"
+	linkURL="images/00024_s_r12ager7akn0024.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/00024_s_r12ager7akn0024.jpg">
+    <title><![CDATA[Objects and Installations]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/victim_number1_1x8_detail.jpg"
+	thumbURL="thumbs/victim_number1_1x8_detail.jpg"
+	linkURL="images/victim_number1_1x8_detail.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/victim_number1_1x8_detail.jpg">
+    <title><![CDATA[victim_number1_1x8_detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/victim_number1_1x8.jpg"
+	thumbURL="thumbs/victim_number1_1x8.jpg"
+	linkURL="images/victim_number1_1x8.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/victim_number1_1x8.jpg">
+    <title><![CDATA[victim_number1_1x8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/oilman_1997_install_detail3.jpg"
+	thumbURL="thumbs/oilman_1997_install_detail3.jpg"
+	linkURL="images/oilman_1997_install_detail3.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/oilman_1997_install_detail3.jpg">
+    <title><![CDATA[oilman_1997_install_detail3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/oilman_1997_install_detail1.jpg"
+	thumbURL="thumbs/oilman_1997_install_detail1.jpg"
+	linkURL="images/oilman_1997_install_detail1.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/oilman_1997_install_detail1.jpg">
+    <title><![CDATA[oilman_1997_install_detail1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/oilman_1997_install detail2.jpg"
+	thumbURL="thumbs/oilman_1997_install detail2.jpg"
+	linkURL="images/oilman_1997_install detail2.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/oilman_1997_install detail2.jpg">
+    <title><![CDATA[oilman_1997_install detail2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bad places_number2_1994_30x42.jpg"
+	thumbURL="thumbs/bad places_number2_1994_30x42.jpg"
+	linkURL="images/bad places_number2_1994_30x42.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/bad places_number2_1994_30x42.jpg">
+    <title><![CDATA[bad places_number2_1994_30x42]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bad places number2 1994 30x42_detail.jpg"
+	thumbURL="thumbs/bad places number2 1994 30x42_detail.jpg"
+	linkURL="images/bad places number2 1994 30x42_detail.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/bad places number2 1994 30x42_detail.jpg">
+    <title><![CDATA[bad places number2 1994 30x42_detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/one_less_to_serve_1990_4x7.jpg"
+	thumbURL="thumbs/one_less_to_serve_1990_4x7.jpg"
+	linkURL="images/one_less_to_serve_1990_4x7.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/one_less_to_serve_1990_4x7.jpg">
+    <title><![CDATA[one_less_to_serve_1990_4x7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/greenhouse_effect_1990_20x100.jpg"
+	thumbURL="thumbs/greenhouse_effect_1990_20x100.jpg"
+	linkURL="images/greenhouse_effect_1990_20x100.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/greenhouse_effect_1990_20x100.jpg">
+    <title><![CDATA[greenhouse_effect_1990_20x100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2oil01.jpg"
+	thumbURL="thumbs/2oil01.jpg"
+	linkURL="images/2oil01.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/2oil01.jpg">
+    <title><![CDATA[2oil01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/oil01.jpg"
+	thumbURL="thumbs/oil01.jpg"
+	linkURL="images/oil01.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/objects_installations_for_portfolio/oil01.jpg">
+    <title><![CDATA[oil01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
