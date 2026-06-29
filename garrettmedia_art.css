@@ -1,0 +1,203 @@
+@charset "UTF-8";
+body {
+	
+	margin: 0;
+	font-family: Verdana, Geneva, sans-serif;	/*padding:5px 0px 0px 5px;*/
+	color: #333;
+	font-size: .9em;
+	background: #9fa36e; /* Old browsers */
+
+background: -moz-radial-gradient(center, ellipse cover,  #9fa36e 0%, #8ab66b 0%, #4f5121 100%); /* FF3.6+ */
+
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#9fa36e), color-stop(0%,#8ab66b), color-stop(100%,#4f5121)); /* Chrome,Safari4+ */
+
+background: -webkit-radial-gradient(center, ellipse cover,  #9fa36e 0%,#8ab66b 0%,#4f5121 100%); /* Chrome10+,Safari5.1+ */
+
+background: -o-radial-gradient(center, ellipse cover,  #9fa36e 0%,#8ab66b 0%,#4f5121 100%); /* Opera 12+ */
+
+background: -ms-radial-gradient(center, ellipse cover,  #9fa36e 0%,#8ab66b 0%,#4f5121 100%); /* IE10+ */
+
+background: radial-gradient(ellipse at center,  #9fa36e 0%,#8ab66b 0%,#4f5121 100%); /* W3C */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9fa36e', endColorstr='#4f5121',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+}
+.art_video_pages #movie_text {
+	width: 190px;
+	float: left;
+	margin-right: 10px;
+}
+.art_video_pages #column1 {
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
+.art_video_pages h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.8em;
+	color: #333;
+	background-color: #9C0;
+	margin-top: 0em;
+}
+.art_video_pages #container {
+	width: 940px;
+	margin: 10px auto;
+	padding:10px;
+	height:761px;
+	background-image: url(images/art_garrettmendia_background1.jpg);
+	background-repeat: no-repeat;
+	
+	background-position: center top;
+	/*background: rgba(255,255,255,0.5);*/
+}
+.art_video_pages #container #art_video1 {
+	width: 720px;
+	float: right;
+}
+.clear{
+	clear:both;
+}
+.art_video_pages h2 {
+	font-size: 1.2em;
+	margin:0 0 .5em 0;
+	line-height:1.1em;
+}
+
+.art_video_pages .video_thumbnail1 {
+	float: left;
+	width: 200px;
+	background-color: #CCC;
+	text-align: center;
+	padding: 5px;
+	border: 1px solid #97C900;
+}
+
+.art_video_pages .video_thumbnail1 a:hover{
+	background-color: #F00;
+}
+.art_video_pages a:link {
+	background-color: #97C900;
+}
+
+.art_video_pages a:hover {
+	background-color: #999;
+}
+
+/*list stuff*/
+#navcontainer{
+
+}
+
+ 
+
+ ul#navlist
+
+{
+
+/*width: 298px;
+
+\width: 300px;
+
+w\idth: 298px;*/
+
+padding: 0px;
+
+border: 1px solid #808080;
+
+border-top: 0px;
+
+margin: 0px;
+
+font:  bold .9em verdana,helvetica,arial,sans-serif;
+
+background: #808080;
+
+}
+
+
+
+ul#navlist li
+
+{
+
+list-style: none;
+
+margin: 0px;
+
+border: 0px;
+
+border-top: 1px solid #808080;
+
+}
+
+
+
+ul#navlist li a
+
+{
+
+display: block;
+
+/*width: 272px;
+
+\width: 300px;
+
+w\idth: 272px;*/
+
+padding: 4px 8px 4px 8px;
+
+border: 0px;
+
+border-left: 20px solid #aaaabb;
+
+background: #cc9;
+
+text-decoration: none;
+
+text-align: right;
+
+}
+
+
+
+ul#navlist li a:link {
+	color: #CCCCCC;
+}
+
+div#navcontainer li a:visited { color: #666677; }
+
+
+
+ul#navlist li a:hover
+
+{
+	border-color: #97C900;
+	color: #ffffff;
+	background: #322;
+
+}
+
+/*end list stuff*/
+.art_video_pages #column2 {
+	float: right;
+	width: 230px;
+	background-color: #CCCB99;
+	margin-left: 10px;
+}
+.art_video_pages #center_column1 {
+	float: left;
+	width: 490px;
+	height:550px;
+	overflow:auto;
+}
+
+.art_video_pages #navcontainer a
+
+{
+	display: block;
+	padding: 3px;
+	width: 170px;
+	background-color: #999966;
+	border-bottom: 1px solid #eee;
+}
