@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1200"
+	maxImageHeight="1000"
+	backgroundColor="rgba(238,238,238,1)"
+	galleryTitle=""
+	textColor="rgba(204,204,204,1)"
+	useFullscreenExpand="true"
+	captionPosition="OVERLAY"
+	maxCaptionHeight="120"
+	thumbsPosition="BOTTOM"
+	thumbNavPosition="CENTER"
+	maxThumbColumns="10"
+	maxThumbRows="1"
+	showNavButtons="false"
+	showAutoPlayButton="false"
+
+>
+  <image imageURL="images/00017_s_r12ager7akn0017.jpg"
+	thumbURL="thumbs/00017_s_r12ager7akn0017.jpg"
+	linkURL="images/00017_s_r12ager7akn0017.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00017_s_r12ager7akn0017.jpg">
+    <title><![CDATA[Blown Mind 2 - 30x40 - Color Print - 1997]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00018_s_r12ager7akn0018.jpg"
+	thumbURL="thumbs/00018_s_r12ager7akn0018.jpg"
+	linkURL="images/00018_s_r12ager7akn0018.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00018_s_r12ager7akn0018.jpg">
+    <title><![CDATA[Victimless Crime #1 - 30x40 - Color Print - 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00025_s_r12ager7akn0025_z.jpg"
+	thumbURL="thumbs/00025_s_r12ager7akn0025_z.jpg"
+	linkURL="images/00025_s_r12ager7akn0025_z.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00025_s_r12ager7akn0025_z.jpg">
+    <title><![CDATA[Victimless Crime #4 - 30x40 - Color Print - 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00019_s_r12ager7akn0019_b.jpg"
+	thumbURL="thumbs/00019_s_r12ager7akn0019_b.jpg"
+	linkURL="images/00019_s_r12ager7akn0019_b.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00019_s_r12ager7akn0019_b.jpg">
+    <title><![CDATA[Oswald - 30x40 - Color Print - 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00026_s_r12ager7akn0026.jpg"
+	thumbURL="thumbs/00026_s_r12ager7akn0026.jpg"
+	linkURL="images/00026_s_r12ager7akn0026.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00026_s_r12ager7akn0026.jpg">
+    <title><![CDATA[Petrol #2 - 30x40 - Color Print - 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00055_s_r12ager7akn0055.jpg"
+	thumbURL="thumbs/00055_s_r12ager7akn0055.jpg"
+	linkURL="images/00055_s_r12ager7akn0055.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00055_s_r12ager7akn0055.jpg">
+    <title><![CDATA[Abstract Type #1 - 11x14 - Color Print - 1991]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00057_s_r12ager7akn0057.jpg"
+	thumbURL="thumbs/00057_s_r12ager7akn0057.jpg"
+	linkURL="images/00057_s_r12ager7akn0057.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00057_s_r12ager7akn0057.jpg">
+    <title><![CDATA[Abstract Type #2 - 11x14 - Color Print - 1991]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00058_s_r12ager7akn0058.jpg"
+	thumbURL="thumbs/00058_s_r12ager7akn0058.jpg"
+	linkURL="images/00058_s_r12ager7akn0058.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00058_s_r12ager7akn0058.jpg">
+    <title><![CDATA[Abstract Type #3 - 11x14 - Color Print - 1991]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00059_s_r12ager7akn0059.jpg"
+	thumbURL="thumbs/00059_s_r12ager7akn0059.jpg"
+	linkURL="images/00059_s_r12ager7akn0059.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00059_s_r12ager7akn0059.jpg">
+    <title><![CDATA[Abstract Type #4 - 11x14 - Color Print - 1991]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00053_s_r12ager7akn0053_z.jpg"
+	thumbURL="thumbs/00053_s_r12ager7akn0053_z.jpg"
+	linkURL="images/00053_s_r12ager7akn0053_z.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00053_s_r12ager7akn0053_z.jpg">
+    <title><![CDATA[Abstract Type #6 - 11x14 - Color Print - 1991]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00094_s_r12ager7akn0094.jpg"
+	thumbURL="thumbs/00094_s_r12ager7akn0094.jpg"
+	linkURL="images/00094_s_r12ager7akn0094.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00094_s_r12ager7akn0094.jpg">
+    <title><![CDATA[Petrol #1 - 30x40 - Color Print - 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00097_s_r12ager7akn0097.jpg"
+	thumbURL="thumbs/00097_s_r12ager7akn0097.jpg"
+	linkURL="images/00097_s_r12ager7akn0097.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/00097_s_r12ager7akn0097.jpg">
+    <title><![CDATA[Gaia #2 - 30x40 - Color Print - 1996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/absolute_20x30.jpg"
+	thumbURL="thumbs/absolute_20x30.jpg"
+	linkURL="images/absolute_20x30.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/art_images_for_portfolio/absolute_20x30.jpg">
+    <title><![CDATA[Abssolute - 20x30 - Color Print - 1992]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
