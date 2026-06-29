@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1200"
+	maxImageHeight="1000"
+	backgroundColor="rgba(238,238,238,1)"
+	galleryTitle=""
+	textColor="rgba(204,204,204,1)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/00013_n_r12ager7akn0013_b_select_edited.jpg"
+	thumbURL="thumbs/00013_n_r12ager7akn0013_b_select_edited.jpg"
+	linkURL="images/00013_n_r12ager7akn0013_b_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/00013_n_r12ager7akn0013_b_select_edited.jpg">
+    <title><![CDATA[Commercial Photography Sample]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00014_n_r12ager7akn0014_z_select_edited.jpg"
+	thumbURL="thumbs/00014_n_r12ager7akn0014_z_select_edited.jpg"
+	linkURL="images/00014_n_r12ager7akn0014_z_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/00014_n_r12ager7akn0014_z_select_edited.jpg">
+    <title><![CDATA[Commercial Photography Sample]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00041_s_r12ager7akn0041_select_edited.jpg"
+	thumbURL="thumbs/00041_s_r12ager7akn0041_select_edited.jpg"
+	linkURL="images/00041_s_r12ager7akn0041_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/00041_s_r12ager7akn0041_select_edited.jpg">
+    <title><![CDATA[Commercial Photography Sample]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/00096_s_r12ager7akn0096_select_edited.jpg"
+	thumbURL="thumbs/00096_s_r12ager7akn0096_select_edited.jpg"
+	linkURL="images/00096_s_r12ager7akn0096_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/00096_s_r12ager7akn0096_select_edited.jpg">
+    <title><![CDATA[Commercial Photography Sample]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/photo1_select_edited.jpg"
+	thumbURL="thumbs/photo1_select_edited.jpg"
+	linkURL="images/photo1_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/photo1_select_edited.jpg">
+    <title><![CDATA[photo1_select_edited]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/photos01_select_edited.jpg"
+	thumbURL="thumbs/photos01_select_edited.jpg"
+	linkURL="images/photos01_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/photos01_select_edited.jpg">
+    <title><![CDATA[photos01_select_edited]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/photos03_select_edited.jpg"
+	thumbURL="thumbs/photos03_select_edited.jpg"
+	linkURL="images/photos03_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/fashion/photos03_select_edited.jpg">
+    <title><![CDATA[photos03_select_edited]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jha_2009_select-158.jpg"
+	thumbURL="thumbs/jha_2009_select-158.jpg"
+	linkURL="images/jha_2009_select-158.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/jha_2009_select-158.jpg">
+    <title><![CDATA[jha_2009_select-158]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day1-9145.jpg"
+	thumbURL="thumbs/JHA_2012_day1-9145.jpg"
+	linkURL="images/JHA_2012_day1-9145.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day1-9145.jpg">
+    <title><![CDATA[JHA_2012_day1-9145]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day2-9369.jpg"
+	thumbURL="thumbs/JHA_2012_day2-9369.jpg"
+	linkURL="images/JHA_2012_day2-9369.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day2-9369.jpg">
+    <title><![CDATA[JHA_2012_day2-9369]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day2-9496.jpg"
+	thumbURL="thumbs/JHA_2012_day2-9496.jpg"
+	linkURL="images/JHA_2012_day2-9496.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day2-9496.jpg">
+    <title><![CDATA[JHA_2012_day2-9496]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day2-9562.jpg"
+	thumbURL="thumbs/JHA_2012_day2-9562.jpg"
+	linkURL="images/JHA_2012_day2-9562.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day2-9562.jpg">
+    <title><![CDATA[JHA_2012_day2-9562]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day4-4987.jpg"
+	thumbURL="thumbs/JHA_2012_day4-4987.jpg"
+	linkURL="images/JHA_2012_day4-4987.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day4-4987.jpg">
+    <title><![CDATA[JHA_2012_day4-4987]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day4-5174.jpg"
+	thumbURL="thumbs/JHA_2012_day4-5174.jpg"
+	linkURL="images/JHA_2012_day4-5174.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day4-5174.jpg">
+    <title><![CDATA[JHA_2012_day4-5174]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day5-0633.jpg"
+	thumbURL="thumbs/JHA_2012_day5-0633.jpg"
+	linkURL="images/JHA_2012_day5-0633.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day5-0633.jpg">
+    <title><![CDATA[JHA_2012_day5-0633]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2012_day5-5451.jpg"
+	thumbURL="thumbs/JHA_2012_day5-5451.jpg"
+	linkURL="images/JHA_2012_day5-5451.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2012_day5-5451.jpg">
+    <title><![CDATA[JHA_2012_day5-5451]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-25-2013_4717.jpg"
+	thumbURL="thumbs/JHA_2013_02-25-2013_4717.jpg"
+	linkURL="images/JHA_2013_02-25-2013_4717.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-25-2013_4717.jpg">
+    <title><![CDATA[JHA_2013_02-25-2013_4717]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-25-2013_4767.jpg"
+	thumbURL="thumbs/JHA_2013_02-25-2013_4767.jpg"
+	linkURL="images/JHA_2013_02-25-2013_4767.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-25-2013_4767.jpg">
+    <title><![CDATA[JHA_2013_02-25-2013_4767]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-26-2013_4868.jpg"
+	thumbURL="thumbs/JHA_2013_02-26-2013_4868.jpg"
+	linkURL="images/JHA_2013_02-26-2013_4868.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-26-2013_4868.jpg">
+    <title><![CDATA[JHA_2013_02-26-2013_4868]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-26-2013_4950.jpg"
+	thumbURL="thumbs/JHA_2013_02-26-2013_4950.jpg"
+	linkURL="images/JHA_2013_02-26-2013_4950.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-26-2013_4950.jpg">
+    <title><![CDATA[JHA_2013_02-26-2013_4950]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-26-2013_7709.jpg"
+	thumbURL="thumbs/JHA_2013_02-26-2013_7709.jpg"
+	linkURL="images/JHA_2013_02-26-2013_7709.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-26-2013_7709.jpg">
+    <title><![CDATA[JHA_2013_02-26-2013_7709]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-27-2013_5293.jpg"
+	thumbURL="thumbs/JHA_2013_02-27-2013_5293.jpg"
+	linkURL="images/JHA_2013_02-27-2013_5293.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-27-2013_5293.jpg">
+    <title><![CDATA[JHA_2013_02-27-2013_5293]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-27-2013_8005.jpg"
+	thumbURL="thumbs/JHA_2013_02-27-2013_8005.jpg"
+	linkURL="images/JHA_2013_02-27-2013_8005.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-27-2013_8005.jpg">
+    <title><![CDATA[JHA_2013_02-27-2013_8005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-27-2013_8052.jpg"
+	thumbURL="thumbs/JHA_2013_02-27-2013_8052.jpg"
+	linkURL="images/JHA_2013_02-27-2013_8052.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-27-2013_8052.jpg">
+    <title><![CDATA[JHA_2013_02-27-2013_8052]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_02-28-2013_5797.jpg"
+	thumbURL="thumbs/JHA_2013_02-28-2013_5797.jpg"
+	linkURL="images/JHA_2013_02-28-2013_5797.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_02-28-2013_5797.jpg">
+    <title><![CDATA[JHA_2013_02-28-2013_5797]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_03-01-2013_8619.jpg"
+	thumbURL="thumbs/JHA_2013_03-01-2013_8619.jpg"
+	linkURL="images/JHA_2013_03-01-2013_8619.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_03-01-2013_8619.jpg">
+    <title><![CDATA[JHA_2013_03-01-2013_8619]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_2013_03-01-2013_8630.jpg"
+	thumbURL="thumbs/JHA_2013_03-01-2013_8630.jpg"
+	linkURL="images/JHA_2013_03-01-2013_8630.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_2013_03-01-2013_8630.jpg">
+    <title><![CDATA[JHA_2013_03-01-2013_8630]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_selects_2010_export-7795.jpg"
+	thumbURL="thumbs/JHA_selects_2010_export-7795.jpg"
+	linkURL="images/JHA_selects_2010_export-7795.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_selects_2010_export-7795.jpg">
+    <title><![CDATA[JHA_selects_2010_export-7795]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_selects_2010_export-8842.jpg"
+	thumbURL="thumbs/JHA_selects_2010_export-8842.jpg"
+	linkURL="images/JHA_selects_2010_export-8842.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_selects_2010_export-8842.jpg">
+    <title><![CDATA[JHA_selects_2010_export-8842]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_selects_2010_export-8879.jpg"
+	thumbURL="thumbs/JHA_selects_2010_export-8879.jpg"
+	linkURL="images/JHA_selects_2010_export-8879.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_selects_2010_export-8879.jpg">
+    <title><![CDATA[JHA_selects_2010_export-8879]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/JHA_selects_2010_export-9255.jpg"
+	thumbURL="thumbs/JHA_selects_2010_export-9255.jpg"
+	linkURL="images/JHA_selects_2010_export-9255.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/jha_exports_for_porfolio/JHA_selects_2010_export-9255.jpg">
+    <title><![CDATA[JHA_selects_2010_export-9255]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0081_8bit.jpg"
+	thumbURL="thumbs/DSC_0081_8bit.jpg"
+	linkURL="images/DSC_0081_8bit.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/products_for_portfolio/DSC_0081_8bit.jpg">
+    <title><![CDATA[DSC_0081_8bit]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/finger_with_red_led_8bit.jpg"
+	thumbURL="thumbs/finger_with_red_led_8bit.jpg"
+	linkURL="images/finger_with_red_led_8bit.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/products_for_portfolio/finger_with_red_led_8bit.jpg">
+    <title><![CDATA[finger_with_red_led_8bit]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-192.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-192.jpg"
+	linkURL="images/nathan_phoebe_wedding-192.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-192.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-192]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-338-2.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-338-2.jpg"
+	linkURL="images/nathan_phoebe_wedding-338-2.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-338-2.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-338-2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-966-2_select_edited.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-966-2_select_edited.jpg"
+	linkURL="images/nathan_phoebe_wedding-966-2_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-966-2_select_edited.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-966-2_select_edited]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-1006.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-1006.jpg"
+	linkURL="images/nathan_phoebe_wedding-1006.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-1006.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-1006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-1388.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-1388.jpg"
+	linkURL="images/nathan_phoebe_wedding-1388.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-1388.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-1388]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-1502.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-1502.jpg"
+	linkURL="images/nathan_phoebe_wedding-1502.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-1502.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-1502]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-9209.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-9209.jpg"
+	linkURL="images/nathan_phoebe_wedding-9209.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-9209.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-9209]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-9252.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-9252.jpg"
+	linkURL="images/nathan_phoebe_wedding-9252.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-9252.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-9252]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-9390_select_edited.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-9390_select_edited.jpg"
+	linkURL="images/nathan_phoebe_wedding-9390_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-9390_select_edited.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-9390_select_edited]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-9404.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-9404.jpg"
+	linkURL="images/nathan_phoebe_wedding-9404.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-9404.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-9404]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-9408.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-9408.jpg"
+	linkURL="images/nathan_phoebe_wedding-9408.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-9408.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-9408]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nathan_phoebe_wedding-9476-2_select_edited.jpg"
+	thumbURL="thumbs/nathan_phoebe_wedding-9476-2_select_edited.jpg"
+	linkURL="images/nathan_phoebe_wedding-9476-2_select_edited.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/wedding_photos_for_portfolio/used_1st/nathan_phoebe_wedding-9476-2_select_edited.jpg">
+    <title><![CDATA[nathan_phoebe_wedding-9476-2_select_edited]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ada_still_2.jpg"
+	thumbURL="thumbs/ada_still_2.jpg"
+	linkURL="images/ada_still_2.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/film_stills/ada_still_2.jpg">
+    <title><![CDATA[ada_still_2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ada_still_5.jpg"
+	thumbURL="thumbs/ada_still_5.jpg"
+	linkURL="images/ada_still_5.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/film_stills/ada_still_5.jpg">
+    <title><![CDATA[ada_still_5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ada_still_6.jpg"
+	thumbURL="thumbs/ada_still_6.jpg"
+	linkURL="images/ada_still_6.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/film_stills/ada_still_6.jpg">
+    <title><![CDATA[ada_still_6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ada_still_7.jpg"
+	thumbURL="thumbs/ada_still_7.jpg"
+	linkURL="images/ada_still_7.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/film_stills/ada_still_7.jpg">
+    <title><![CDATA[ada_still_7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ada_still_11.jpg"
+	thumbURL="thumbs/ada_still_11.jpg"
+	linkURL="images/ada_still_11.jpg"
+	linkTarget="_blank"
+	sourcePath="/artwork_old_all/new_portfolio_images/commercial_photography_for_portfolio/film_stills/ada_still_11.jpg">
+    <title><![CDATA[ada_still_11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
